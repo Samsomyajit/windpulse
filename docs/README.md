@@ -230,4 +230,4 @@ For documentation issues:
 
 **Maintainer**: Samsomyajit
 
-**License**: MIT (see [../LICENSE](../LICENSE))
+**License**: Apache License 2.0 (see [../LICENSE](../LICENSE))

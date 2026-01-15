@@ -140,7 +140,7 @@ https://github.com/Samsomyajit/windpulse
 
 ## License
 
-All images are part of the WindPulse project and are licensed under the MIT License. See the LICENSE file in the root directory for details.
+All images are part of the WindPulse project and are licensed under the Apache License 2.0. See the LICENSE file in the root directory for details.
 
 ---
 

@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Results and visualization gallery
 - 60 extracted images from analysis notebook
 - Jekyll configuration for GitHub Pages
-- LICENSE file (MIT License)
+- LICENSE file (Apache License 2.0)
 - Contributing guidelines
 - Requirements.txt for dependencies
 - .gitignore for Python projects
