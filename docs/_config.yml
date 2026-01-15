@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 title: WindPulse
 description: Heat Map-Based Clustered Diurnal Wind Power Density Analysis for Optimized Maintenance Scheduling of Wind Farms in India
+url: https://samsomyajit.github.io
+baseurl: /windpulse
 show_downloads: true
 google_analytics: 
 plugins:
