@@ -3,9 +3,15 @@ layout: default
 title: Methodology
 ---
 
-# Methodology
+# 🔬 Methodology
 
-[← Back to Home](index.md)
+<nav>
+  <ul>
+    <li><a href="index.html">← Back to Home</a></li>
+    <li><a href="results.html">Results →</a></li>
+    <li><a href="gallery.html">Gallery</a></li>
+  </ul>
+</nav>
 
 ## Overview
 
@@ -241,6 +247,11 @@ Balance multiple objectives:
 
 This methodology is based on established wind energy analysis techniques and incorporates novel approaches for maintenance optimization specific to Indian wind farm conditions.
 
-[View Results →](results.md)
+---
 
-[← Back to Home](index.md)
+<nav>
+  <ul>
+    <li><a href="results.html">View Results →</a></li>
+    <li><a href="index.html">← Back to Home</a></li>
+  </ul>
+</nav>

@@ -3,411 +3,390 @@ layout: default
 title: Visualization Gallery
 ---
 
-# Visualization Gallery
+# 🎨 Visualization Gallery
 
-[← Back to Home](index.md)
+<nav>
+  <ul>
+    <li><a href="index.html">← Back to Home</a></li>
+    <li><a href="#contour-heat-maps">Heat Maps</a></li>
+    <li><a href="#individual-site-analysis">Site Analysis</a></li>
+    <li><a href="#multi-site-comparison-grids">Comparisons</a></li>
+    <li><a href="#clustering-flow-analysis">Clustering</a></li>
+  </ul>
+</nav>
 
-This gallery contains all 60 visualizations generated from the wind power density analysis.
-
----
-
-## Navigation by Category
-
-- [Contour Heat Maps (Images 1-5)](#contour-heat-maps)
-- [Individual Site Analysis (Images 6-41)](#individual-site-analysis)
-- [Multi-Site Comparison Grids (Images 42-46)](#multi-site-comparison-grids)
-- [Enhanced Analysis (Images 47-48)](#enhanced-analysis)
-- [Clustering & Flow Analysis (Images 49-58)](#clustering-flow-analysis)
-- [Seasonal Analysis (Images 59-60)](#seasonal-analysis)
+This gallery showcases all **60 visualizations** generated from comprehensive wind power density analysis across Indian wind farms.
 
 ---
 
-## Contour Heat Maps
+## 📊 Navigation by Category
+
+<div class="gallery-grid">
+  <div class="feature-card">
+    <h3>🗺️ Contour Heat Maps</h3>
+    <p>Images 1-5: Multi-dimensional contour plots</p>
+    <a href="#contour-heat-maps" class="btn">View Section</a>
+  </div>
+  <div class="feature-card">
+    <h3>🏭 Site Analysis</h3>
+    <p>Images 6-41: Individual wind farm analysis</p>
+    <a href="#individual-site-analysis" class="btn">View Section</a>
+  </div>
+  <div class="feature-card">
+    <h3>📈 Comparisons</h3>
+    <p>Images 42-46: Multi-site grid comparisons</p>
+    <a href="#multi-site-comparison-grids" class="btn">View Section</a>
+  </div>
+  <div class="feature-card">
+    <h3>🔬 Enhanced Analysis</h3>
+    <p>Images 47-48: Advanced visualizations</p>
+    <a href="#enhanced-analysis" class="btn">View Section</a>
+  </div>
+  <div class="feature-card">
+    <h3>🎯 Clustering</h3>
+    <p>Images 49-58: ML-based clustering & flow</p>
+    <a href="#clustering-flow-analysis" class="btn">View Section</a>
+  </div>
+  <div class="feature-card">
+    <h3>🌤️ Seasonal Patterns</h3>
+    <p>Images 59-60: Seasonal variations</p>
+    <a href="#seasonal-analysis" class="btn">View Section</a>
+  </div>
+</div>
+
+---
+
+<div class="category-section" id="contour-heat-maps">
+
+## 🗺️ Contour Heat Maps
 
 Comprehensive contour plots showing wind speed and power density patterns across time and months.
 
+<div class="gallery-grid">
+  <div class="gallery-item">
+    <img src="../images/image_001.png" alt="Contour Heat Map 1" loading="lazy">
+    <div class="gallery-caption">Image 1: Wind Power Density Contour</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_002.png" alt="Contour Heat Map 2" loading="lazy">
+    <div class="gallery-caption">Image 2: Monthly Wind Speed Pattern</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_003.png" alt="Contour Heat Map 3" loading="lazy">
+    <div class="gallery-caption">Image 3: Diurnal Pattern Analysis</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_004.png" alt="Contour Heat Map 4" loading="lazy">
+    <div class="gallery-caption">Image 4: Power Density Distribution</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_005.png" alt="Contour Heat Map 5" loading="lazy">
+    <div class="gallery-caption">Image 5: Temporal Variation Map</div>
+  </div>
+</div>
 
-### Image 1
-![Image 1](../images/image_001.png)
-
-### Image 2
-![Image 2](../images/image_002.png)
-
-### Image 3
-![Image 3](../images/image_003.png)
-
-### Image 4
-![Image 4](../images/image_004.png)
-
-### Image 5
-![Image 5](../images/image_005.png)
+</div>
 
 ---
 
-## Individual Site Analysis
+<div class="category-section" id="individual-site-analysis">
+
+## 🏭 Individual Site Analysis
 
 Detailed analysis for individual wind farm sites including maintenance recommendations, seasonal patterns, and statistical distributions.
 
-
-### Images 6-11
-
-
-<details>
-<summary>Image 6</summary>
-
-![Image 6](../images/image_006.png)
-
-</details>
-
-<details>
-<summary>Image 7</summary>
-
-![Image 7](../images/image_007.png)
-
-</details>
-
-<details>
-<summary>Image 8</summary>
-
-![Image 8](../images/image_008.png)
-
-</details>
-
-<details>
-<summary>Image 9</summary>
-
-![Image 9](../images/image_009.png)
-
-</details>
-
-<details>
-<summary>Image 10</summary>
-
-![Image 10](../images/image_010.png)
-
-</details>
-
-<details>
-<summary>Image 11</summary>
-
-![Image 11](../images/image_011.png)
-
-</details>
-
-### Images 12-17
-
-
-<details>
-<summary>Image 12</summary>
-
-![Image 12](../images/image_012.png)
-
-</details>
-
-<details>
-<summary>Image 13</summary>
-
-![Image 13](../images/image_013.png)
-
-</details>
-
-<details>
-<summary>Image 14</summary>
-
-![Image 14](../images/image_014.png)
-
-</details>
-
-<details>
-<summary>Image 15</summary>
-
-![Image 15](../images/image_015.png)
-
-</details>
-
-<details>
-<summary>Image 16</summary>
-
-![Image 16](../images/image_016.png)
-
-</details>
-
-<details>
-<summary>Image 17</summary>
-
-![Image 17](../images/image_017.png)
-
-</details>
-
-### Images 18-23
-
-
-<details>
-<summary>Image 18</summary>
-
-![Image 18](../images/image_018.png)
-
-</details>
-
-<details>
-<summary>Image 19</summary>
-
-![Image 19](../images/image_019.png)
-
-</details>
-
-<details>
-<summary>Image 20</summary>
-
-![Image 20](../images/image_020.png)
-
-</details>
-
-<details>
-<summary>Image 21</summary>
-
-![Image 21](../images/image_021.png)
-
-</details>
-
-<details>
-<summary>Image 22</summary>
-
-![Image 22](../images/image_022.png)
-
-</details>
-
-<details>
-<summary>Image 23</summary>
-
-![Image 23](../images/image_023.png)
-
-</details>
-
-### Images 24-29
-
-
-<details>
-<summary>Image 24</summary>
-
-![Image 24](../images/image_024.png)
-
-</details>
-
-<details>
-<summary>Image 25</summary>
-
-![Image 25](../images/image_025.png)
-
-</details>
-
-<details>
-<summary>Image 26</summary>
-
-![Image 26](../images/image_026.png)
-
-</details>
-
-<details>
-<summary>Image 27</summary>
-
-![Image 27](../images/image_027.png)
-
-</details>
-
-<details>
-<summary>Image 28</summary>
-
-![Image 28](../images/image_028.png)
-
-</details>
-
-<details>
-<summary>Image 29</summary>
-
-![Image 29](../images/image_029.png)
-
-</details>
-
-### Images 30-35
-
-
-<details>
-<summary>Image 30</summary>
-
-![Image 30](../images/image_030.png)
-
-</details>
-
-<details>
-<summary>Image 31</summary>
-
-![Image 31](../images/image_031.png)
-
-</details>
-
-<details>
-<summary>Image 32</summary>
-
-![Image 32](../images/image_032.png)
-
-</details>
-
-<details>
-<summary>Image 33</summary>
-
-![Image 33](../images/image_033.png)
-
-</details>
-
-<details>
-<summary>Image 34</summary>
-
-![Image 34](../images/image_034.png)
-
-</details>
-
-<details>
-<summary>Image 35</summary>
-
-![Image 35](../images/image_035.png)
-
-</details>
-
-### Images 36-41
-
-
-<details>
-<summary>Image 36</summary>
-
-![Image 36](../images/image_036.png)
-
-</details>
-
-<details>
-<summary>Image 37</summary>
-
-![Image 37](../images/image_037.png)
-
-</details>
-
-<details>
-<summary>Image 38</summary>
-
-![Image 38](../images/image_038.png)
-
-</details>
-
-<details>
-<summary>Image 39</summary>
-
-![Image 39](../images/image_039.png)
-
-</details>
-
-<details>
-<summary>Image 40</summary>
-
-![Image 40](../images/image_040.png)
-
-</details>
-
-<details>
-<summary>Image 41</summary>
-
-![Image 41](../images/image_041.png)
-
-</details>
+<div class="gallery-grid">
+  <div class="gallery-item">
+    <img src="../images/image_006.png" alt="Site Analysis 6" loading="lazy">
+    <div class="gallery-caption">Image 6: Maintenance Schedule Analysis</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_007.png" alt="Site Analysis 7" loading="lazy">
+    <div class="gallery-caption">Image 7: Ridge Plot - Seasonal Patterns</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_008.png" alt="Site Analysis 8" loading="lazy">
+    <div class="gallery-caption">Image 8: Risk-Loss Frontier</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_009.png" alt="Site Analysis 9" loading="lazy">
+    <div class="gallery-caption">Image 9: Ramp Rate Analysis</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_010.png" alt="Site Analysis 10" loading="lazy">
+    <div class="gallery-caption">Image 10: Monthly Distribution</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_011.png" alt="Site Analysis 11" loading="lazy">
+    <div class="gallery-caption">Image 11: Statistical Analysis</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_012.png" alt="Site Analysis 12" loading="lazy">
+    <div class="gallery-caption">Image 12: Site 2 - Maintenance</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_013.png" alt="Site Analysis 13" loading="lazy">
+    <div class="gallery-caption">Image 13: Site 2 - Ridge Plot</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_014.png" alt="Site Analysis 14" loading="lazy">
+    <div class="gallery-caption">Image 14: Site 2 - Risk Frontier</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_015.png" alt="Site Analysis 15" loading="lazy">
+    <div class="gallery-caption">Image 15: Site 2 - Ramp Analysis</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_016.png" alt="Site Analysis 16" loading="lazy">
+    <div class="gallery-caption">Image 16: Site 2 - Monthly Stats</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_017.png" alt="Site Analysis 17" loading="lazy">
+    <div class="gallery-caption">Image 17: Site 2 - Distribution</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_018.png" alt="Site Analysis 18" loading="lazy">
+    <div class="gallery-caption">Image 18: Site 3 - Maintenance</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_019.png" alt="Site Analysis 19" loading="lazy">
+    <div class="gallery-caption">Image 19: Site 3 - Ridge Plot</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_020.png" alt="Site Analysis 20" loading="lazy">
+    <div class="gallery-caption">Image 20: Site 3 - Risk Frontier</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_021.png" alt="Site Analysis 21" loading="lazy">
+    <div class="gallery-caption">Image 21: Site 3 - Ramp Analysis</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_022.png" alt="Site Analysis 22" loading="lazy">
+    <div class="gallery-caption">Image 22: Site 3 - Monthly Stats</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_023.png" alt="Site Analysis 23" loading="lazy">
+    <div class="gallery-caption">Image 23: Site 3 - Distribution</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_024.png" alt="Site Analysis 24" loading="lazy">
+    <div class="gallery-caption">Image 24: Site 4 - Maintenance</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_025.png" alt="Site Analysis 25" loading="lazy">
+    <div class="gallery-caption">Image 25: Site 4 - Ridge Plot</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_026.png" alt="Site Analysis 26" loading="lazy">
+    <div class="gallery-caption">Image 26: Site 4 - Risk Frontier</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_027.png" alt="Site Analysis 27" loading="lazy">
+    <div class="gallery-caption">Image 27: Site 4 - Ramp Analysis</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_028.png" alt="Site Analysis 28" loading="lazy">
+    <div class="gallery-caption">Image 28: Site 4 - Monthly Stats</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_029.png" alt="Site Analysis 29" loading="lazy">
+    <div class="gallery-caption">Image 29: Site 4 - Distribution</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_030.png" alt="Site Analysis 30" loading="lazy">
+    <div class="gallery-caption">Image 30: Site 5 - Maintenance</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_031.png" alt="Site Analysis 31" loading="lazy">
+    <div class="gallery-caption">Image 31: Site 5 - Ridge Plot</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_032.png" alt="Site Analysis 32" loading="lazy">
+    <div class="gallery-caption">Image 32: Site 5 - Risk Frontier</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_033.png" alt="Site Analysis 33" loading="lazy">
+    <div class="gallery-caption">Image 33: Site 5 - Ramp Analysis</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_034.png" alt="Site Analysis 34" loading="lazy">
+    <div class="gallery-caption">Image 34: Site 5 - Monthly Stats</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_035.png" alt="Site Analysis 35" loading="lazy">
+    <div class="gallery-caption">Image 35: Site 5 - Distribution</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_036.png" alt="Site Analysis 36" loading="lazy">
+    <div class="gallery-caption">Image 36: Site 6 - Maintenance</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_037.png" alt="Site Analysis 37" loading="lazy">
+    <div class="gallery-caption">Image 37: Site 6 - Ridge Plot</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_038.png" alt="Site Analysis 38" loading="lazy">
+    <div class="gallery-caption">Image 38: Site 6 - Risk Frontier</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_039.png" alt="Site Analysis 39" loading="lazy">
+    <div class="gallery-caption">Image 39: Site 6 - Ramp Analysis</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_040.png" alt="Site Analysis 40" loading="lazy">
+    <div class="gallery-caption">Image 40: Site 6 - Monthly Stats</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_041.png" alt="Site Analysis 41" loading="lazy">
+    <div class="gallery-caption">Image 41: Site 6 - Distribution</div>
+  </div>
+</div>
+
+</div>
 
 ---
 
-## Multi-Site Comparison Grids
+<div class="category-section" id="multi-site-comparison-grids">
+
+## 📈 Multi-Site Comparison Grids
 
 3×2 grid layouts comparing 6 wind farm sites simultaneously across different metrics.
 
+<div class="gallery-grid">
+  <div class="gallery-item">
+    <img src="../images/image_042.png" alt="Multi-Site Comparison 42" loading="lazy">
+    <div class="gallery-caption">Image 42: 6-Site Maintenance Comparison</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_043.png" alt="Multi-Site Comparison 43" loading="lazy">
+    <div class="gallery-caption">Image 43: 6-Site Ridge Plot Grid</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_044.png" alt="Multi-Site Comparison 44" loading="lazy">
+    <div class="gallery-caption">Image 44: 6-Site Risk Frontier Grid</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_045.png" alt="Multi-Site Comparison 45" loading="lazy">
+    <div class="gallery-caption">Image 45: 6-Site Ramp Rate Grid</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_046.png" alt="Multi-Site Comparison 46" loading="lazy">
+    <div class="gallery-caption">Image 46: 6-Site Statistical Grid</div>
+  </div>
+</div>
 
-### Image 42
-![Image 42](../images/image_042.png)
-
-### Image 43
-![Image 43](../images/image_043.png)
-
-### Image 44
-![Image 44](../images/image_044.png)
-
-### Image 45
-![Image 45](../images/image_045.png)
-
-### Image 46
-![Image 46](../images/image_046.png)
+</div>
 
 ---
 
-## Enhanced Analysis
+<div class="category-section" id="enhanced-analysis">
+
+## 🔬 Enhanced Analysis
 
 Advanced statistical visualizations with enhanced resolution and normalization.
 
+<div class="gallery-grid">
+  <div class="gallery-item">
+    <img src="../images/image_047.png" alt="Enhanced Analysis 47" loading="lazy">
+    <div class="gallery-caption">Image 47: Normalized High-Res Analysis</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_048.png" alt="Enhanced Analysis 48" loading="lazy">
+    <div class="gallery-caption">Image 48: Enhanced Statistical View</div>
+  </div>
+</div>
 
-### Image 47
-![Image 47](../images/image_047.png)
-
-### Image 48
-![Image 48](../images/image_048.png)
+</div>
 
 ---
 
-## Clustering & Flow Analysis
+<div class="category-section" id="clustering-flow-analysis">
+
+## 🎯 Clustering & Flow Analysis
 
 Machine learning-based clustering visualizations and Sankey diagrams showing wind pattern flows.
 
+<div class="gallery-grid">
+  <div class="gallery-item">
+    <img src="../images/image_049.png" alt="Clustering Analysis 49" loading="lazy">
+    <div class="gallery-caption">Image 49: Sankey Flow Diagram</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_050.png" alt="Clustering Analysis 50" loading="lazy">
+    <div class="gallery-caption">Image 50: Alluvial Pattern Flow</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_051.png" alt="Clustering Analysis 51" loading="lazy">
+    <div class="gallery-caption">Image 51: PCA Clustering 2D</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_052.png" alt="Clustering Analysis 52" loading="lazy">
+    <div class="gallery-caption">Image 52: PCA Clustering 3D</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_053.png" alt="Clustering Analysis 53" loading="lazy">
+    <div class="gallery-caption">Image 53: t-SNE Clustering</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_054.png" alt="Clustering Analysis 54" loading="lazy">
+    <div class="gallery-caption">Image 54: t-SNE Alternative View</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_055.png" alt="Clustering Analysis 55" loading="lazy">
+    <div class="gallery-caption">Image 55: UMAP Clustering</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_056.png" alt="Clustering Analysis 56" loading="lazy">
+    <div class="gallery-caption">Image 56: UMAP Alternative View</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_057.png" alt="Clustering Analysis 57" loading="lazy">
+    <div class="gallery-caption">Image 57: Hierarchical Dendrogram</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_058.png" alt="Clustering Analysis 58" loading="lazy">
+    <div class="gallery-caption">Image 58: Cluster Comparison Matrix</div>
+  </div>
+</div>
 
-### Image 49
-![Image 49](../images/image_049.png)
-
-### Image 50
-![Image 50](../images/image_050.png)
-
-### Image 51
-![Image 51](../images/image_051.png)
-
-### Image 52
-![Image 52](../images/image_052.png)
-
-### Image 53
-![Image 53](../images/image_053.png)
-
-### Image 54
-![Image 54](../images/image_054.png)
-
-### Image 55
-![Image 55](../images/image_055.png)
-
-### Image 56
-![Image 56](../images/image_056.png)
-
-### Image 57
-![Image 57](../images/image_057.png)
-
-### Image 58
-![Image 58](../images/image_058.png)
+</div>
 
 ---
 
-## Seasonal Analysis
+<div class="category-section" id="seasonal-analysis">
+
+## 🌤️ Seasonal Analysis
 
 Seasonal contour plots showing pattern variations across different seasons.
 
+<div class="gallery-grid">
+  <div class="gallery-item">
+    <img src="../images/image_059.png" alt="Seasonal Analysis 59" loading="lazy">
+    <div class="gallery-caption">Image 59: Four-Season Contour Comparison</div>
+  </div>
+  <div class="gallery-item">
+    <img src="../images/image_060.png" alt="Seasonal Analysis 60" loading="lazy">
+    <div class="gallery-caption">Image 60: Seasonal Pattern Summary</div>
+  </div>
+</div>
 
-### Image 59
-![Image 59](../images/image_059.png)
-
-### Image 60
-![Image 60](../images/image_060.png)
+</div>
 
 ---
 
-## Download All Images
+## 📥 Download All Images
 
-All images are available in the [repository's images folder](https://github.com/Samsomyajit/windpulse/tree/main/images).
+<div class="feature-card">
+  <h3>Repository Access</h3>
+  <p>All images are available in high resolution in the repository's images folder.</p>
+  <a href="https://github.com/Samsomyajit/windpulse/tree/main/images" class="btn">Visit Images Folder →</a>
+</div>
 
-[← Back to Home](index.md) | [View Results →](results.md)
+---
+
+<nav>
+  <ul>
+    <li><a href="index.html">← Back to Home</a></li>
+    <li><a href="results.html">View Results →</a></li>
+  </ul>
+</nav>

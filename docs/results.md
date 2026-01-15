@@ -3,9 +3,15 @@ layout: default
 title: Results & Visualizations
 ---
 
-# Results & Visualizations
+# 📊 Results & Visualizations
 
-[← Back to Home](index.md)
+<nav>
+  <ul>
+    <li><a href="index.html">← Back to Home</a></li>
+    <li><a href="gallery.html">View Gallery →</a></li>
+    <li><a href="methodology.html">Methodology</a></li>
+  </ul>
+</nav>
 
 ## Overview
 
@@ -168,11 +174,15 @@ Shows site groupings using dimensionality reduction:
 
 ---
 
-## Interactive Gallery
+<div class="feature-card">
+
+### 📈 Interactive Gallery
 
 For a complete gallery of all 60 visualizations, please visit:
 
-[→ View Complete Gallery](gallery.md)
+<a href="gallery.html" class="btn">→ View Complete Gallery</a>
+
+</div>
 
 ---
 
@@ -235,4 +245,11 @@ All visualizations are available in the repository:
 
 [View on GitHub →](https://github.com/Samsomyajit/windpulse)
 
-[← Back to Home](index.md) | [View Gallery →](gallery.md)
+---
+
+<nav>
+  <ul>
+    <li><a href="index.html">← Back to Home</a></li>
+    <li><a href="gallery.html">View Gallery →</a></li>
+  </ul>
+</nav>
