@@ -132,7 +132,7 @@ windpulse/
 │   └── README.md             # Images documentation
 ├── meintanance_wpd.ipynb     # Main analysis notebook
 ├── requirements.txt           # Python dependencies
-├── LICENSE                    # MIT License
+├── LICENSE                    # Apache License 2.0
 ├── CONTRIBUTING.md            # Contribution guidelines
 ├── CHANGELOG.md               # Version history
 └── README.md                  # This file
