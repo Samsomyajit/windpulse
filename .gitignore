@@ -61,7 +61,9 @@ venv.bak/
 *.xlsx
 *.xls
 *.pdf
-data/
+data/*
+!data/README.md
+!data/.gitkeep
 tmp/
 temp/
 .cache/
