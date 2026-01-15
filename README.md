@@ -3,7 +3,7 @@
 ## Heat Map-Based Clustered Diurnal Wind Power Density Analysis for Optimized Maintenance Scheduling of Wind Farms in India
 
 [![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://samsomyajit.github.io/windpulse/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 
 ### 📚 Documentation
@@ -182,7 +182,7 @@ https://github.com/Samsomyajit/windpulse
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 
 ### Contact
 
