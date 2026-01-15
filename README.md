@@ -2,6 +2,17 @@
 
 ## Heat Map-Based Clustered Diurnal Wind Power Density Analysis for Optimized Maintenance Scheduling of Wind Farms in India
 
+[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://samsomyajit.github.io/windpulse/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+
+### 📚 Documentation
+
+- **[Project Website](https://samsomyajit.github.io/windpulse/)** - Complete documentation and visualization gallery
+- **[Methodology](docs/methodology.md)** - Detailed methodology and algorithms
+- **[Results & Analysis](docs/results.md)** - Key findings and insights
+- **[Visualization Gallery](docs/gallery.md)** - Complete gallery of 60 analysis images
+
 ### Overview
 
 WindPulse is an advanced analytics platform designed to optimize maintenance scheduling for wind farms across India through sophisticated wind power density analysis. By leveraging heat map visualizations and clustering algorithms on diurnal wind patterns, this system enables wind farm operators to make data-driven decisions for maintenance planning, maximizing uptime and energy production efficiency.
@@ -107,30 +118,50 @@ python cluster_analysis.py --num-clusters 5
 
 ```
 windpulse/
-├── data/               # Sample and test data files
-├── src/                # Source code
-│   ├── analysis/       # Wind pattern analysis modules
-│   ├── clustering/     # Clustering algorithms
-│   ├── visualization/  # Heat map generation
-│   └── optimization/   # Maintenance scheduling logic
-├── tests/              # Unit and integration tests
-├── docs/               # Documentation
-├── examples/           # Usage examples and tutorials
-└── README.md           # This file
+├── docs/                      # GitHub Pages documentation
+│   ├── index.md              # Homepage
+│   ├── methodology.md        # Detailed methodology
+│   ├── results.md            # Analysis results
+│   ├── gallery.md            # Visualization gallery
+│   └── _config.yml           # Jekyll configuration
+├── images/                    # Extracted visualizations (60 images)
+│   ├── image_001.png         # Contour heat maps
+│   ├── ...                   # Individual site analysis
+│   ├── image_060.png         # Seasonal analysis
+│   ├── image_index.json      # Image metadata
+│   └── README.md             # Images documentation
+├── meintanance_wpd.ipynb     # Main analysis notebook
+├── requirements.txt           # Python dependencies
+├── LICENSE                    # MIT License
+├── CONTRIBUTING.md            # Contribution guidelines
+├── CHANGELOG.md               # Version history
+└── README.md                  # This file
 ```
 
 ### Benefits
 
-1. **Increased Revenue**: Minimize production losses during maintenance
+1. **Increased Revenue**: Minimize production losses during maintenance (15-35% improvement)
 2. **Cost Efficiency**: Optimize maintenance crew scheduling and resource allocation
 3. **Extended Equipment Life**: Timely maintenance prevents major failures
 4. **Data-Driven Decisions**: Replace intuition with analytical insights
 5. **Scalability**: Applicable to single turbines or entire wind farm portfolios
 
+### Research Outputs
+
+This repository contains:
+- **60 Publication-Ready Visualizations**: Heat maps, contour plots, clustering diagrams, and more
+- **Comprehensive Analysis Pipeline**: From raw data to maintenance recommendations
+- **Multiple Analysis Methods**: Weibull modeling, Markov transitions, Bootstrap analysis
+- **Clustering Visualizations**: PCA, t-SNE, and UMAP-based site groupings
+- **Detailed Documentation**: Complete methodology and results documentation
+
+📊 **[View All Visualizations](docs/gallery.md)** | 📖 **[Read Full Documentation](https://samsomyajit.github.io/windpulse/)**
+
 ### Contributing
 
-We welcome contributions from the community! Please follow these guidelines:
+We welcome contributions from the community! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
+Quick start:
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/your-feature`)
 3. Commit your changes (`git commit -am 'Add new feature'`)
@@ -139,18 +170,32 @@ We welcome contributions from the community! Please follow these guidelines:
 
 Please ensure your code follows the project's coding standards and includes appropriate tests.
 
+### Citation
+
+If you use this work in your research, please cite:
+
+```
+WindPulse: Heat Map-Based Clustered Diurnal Wind Power Density Analysis 
+for Optimized Maintenance Scheduling of Wind Farms in India
+https://github.com/Samsomyajit/windpulse
+```
+
 ### License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ### Contact
 
-For questions, suggestions, or collaboration opportunities, please open an issue on GitHub or contact the project maintainers.
+For questions, suggestions, or collaboration opportunities:
+- **Issues**: [Open an issue](https://github.com/Samsomyajit/windpulse/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Samsomyajit/windpulse/discussions)
+- **Documentation**: [Project Website](https://samsomyajit.github.io/windpulse/)
 
 ### Acknowledgments
 
+- Indian Meteorological Department (IMD) for wind data
 - Indian wind energy research institutions
-- Wind farm operators who contributed data and insights
+- Wind farm operators who contributed insights
 - Open-source community for tools and libraries
 
 ### Future Enhancements
